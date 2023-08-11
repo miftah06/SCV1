@@ -193,9 +193,9 @@ account default
 host smtp.gmail.com
 port 587
 auth on
-user fitamirgana@gmail.com
-from fitamirgana@gmail.com
-password obfvhzpomhbqrunm
+user viralbokepindong@gmail.com
+from viralbokepindong@gmail.com
+password Cinta4545
 logfile ~/.msmtp.log
 EOF
 
@@ -379,9 +379,9 @@ account default
 host smtp.gmail.com
 port 587
 auth on
-user taibabihutan17@gmail.com
-from taibabihutan17@gmail.com
-password romanisti
+user bgstsekali8@gmail.com
+from bgstsekali8@gmail.com
+password ALIM454545
 logfile ~/.msmtp.log
 EOF
 
