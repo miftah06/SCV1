@@ -4,18 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9470abb-5b5c-4ecc-8f47-d48092a646a3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/B" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/caddy/Y" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/banner" beforeDir="false" afterPath="$PROJECT_DIR$/config/banner" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/openvpn/;" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/openvpn/Y" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/+" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/P" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slowdns/P" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xray/-" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xray/J" beforeDir="false" />
+    <list default="true" id="e9470abb-5b5c-4ecc-8f47-d48092a646a3" name="Changes" comment="lol">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +24,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="D:\wamp64\bin\php\php8.2.0\php.exe" />
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
@@ -47,15 +38,14 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
     "WebServerToolWindowFactoryState": "false",
     "dart.analysis.tool.window.visible": "false",
+    "go.import.settings.migrated": "true",
     "nodejs_package_manager_path": "npm",
     "show.migrate.to.gradle.popup": "false",
     "vue.rearranger.settings.migration": "true"
-  },
-  "keyToStringList": {
-    "stardust.markdown.MarkdownSplitEditorSuppressor:keyList": [
-    ]
   }
 }]]></component>
   <component name="RunManager">
@@ -163,10 +153,27 @@
       <updated>1680278237438</updated>
       <workItem from="1691760914260" duration="195000" />
       <workItem from="1691761112767" duration="122000" />
+      <workItem from="1695101913909" duration="223000" />
     </task>
+    <task id="LOCAL-00001" summary="lol">
+      <option name="closed" value="true" />
+      <created>1695101976452</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695101976452</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lol" />
+    <option name="LAST_COMMIT_MESSAGE" value="lol" />
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
   </component>
 </project>
